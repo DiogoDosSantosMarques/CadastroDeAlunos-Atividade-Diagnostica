@@ -1,0 +1,16 @@
+body{
+  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  
+}
+
+
+
+.centralizar{
+  margin: 0 auto;
+  margin-top: 12%;
+   width: 60%;
+}
